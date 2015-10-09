@@ -1,4 +1,4 @@
-# AnyAware - stay aware, anywhere.
+![AnyAware Logo](https://raw.githubusercontent.com/BigDataForSanDiego/team-AnyAware/master/logo.PNG)
 
 ## Team Members
 Ali Esparza, Bethany Plunkett, Bogdan Matuszynski, Edward Salazar, Ian Follett, Xi Huang
