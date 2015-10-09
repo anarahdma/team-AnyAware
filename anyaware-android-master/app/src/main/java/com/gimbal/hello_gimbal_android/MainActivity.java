@@ -30,7 +30,7 @@ public class MainActivity extends ActionBarActivity {
 
         listAdapter.add("Setting Gimbal API Key");
         listAdapter.notifyDataSetChanged();
-        Gimbal.setApiKey(this.getApplication(), "01c9e594-65d3-4fd3-a1af-146b9f7952e9");
+        Gimbal.setApiKey(this.getApplication(), "[redacted]");
 
         placeEventListener = new PlaceEventListener() {
             @Override
