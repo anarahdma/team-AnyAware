@@ -10,7 +10,11 @@ Using the data found on the San Diego Regional Data Library related to crime inc
 ![sample output](https://raw.githubusercontent.com/BigDataForSanDiego/team-AnyAware/master/Capture.PNG)
 
 ## Datasets
-[San Diego Region Crime Incidents 2007 - 2013](https://s3.amazonaws.com/s3.sandiegodata.org/repo/clarinova.com/crime-incidents-casnd-7ba4-r3/incidents-100k.csv)
+- [San Diego Region Crime Incidents 2007 - 2013](https://s3.amazonaws.com/s3.sandiegodata.org/repo/clarinova.com/crime-incidents-casnd-7ba4-r3/incidents-5y.csv)
+
+## Frameworks
+- [Gimbal](http://www.gimbal.com/)
+- [Google Cloud Messaging](https://developers.google.com/cloud-messaging/)
 
 ## Compiling the Android application
 - to run this sample in Android Studio choose the 'Import Project' option
