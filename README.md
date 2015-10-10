@@ -16,6 +16,9 @@ Using the data found on the San Diego Regional Data Library related to crime inc
 - [Gimbal](http://www.gimbal.com/)
 - [Google Cloud Messaging](https://developers.google.com/cloud-messaging/)
 
+## Presentation
+- [http://prezi.com/gmw2o48px3oo/?utm_campaign=share&utm_medium=copy](Prezi AnyAware)
+
 ## Compiling the Android application
 - to run this sample in Android Studio choose the 'Import Project' option
 - fill the API KEY into the MainActivity
